@@ -98,17 +98,22 @@ def train_model(model, train_loader, num_epochs=3):
         print('Register Number: 212223040172')
         print(f'Epoch [{epoch+1}/{num_epochs}], Loss: {running_loss/len(train_loader):.4f}')
 ```
+<br> <br>
+<br>
 
 ## OUTPUT
 
 ### Training Loss per Epoch
 ![Screenshot 2025-03-23 204655](https://github.com/user-attachments/assets/3c38dd7a-c070-43c8-9b70-bbf5b5366a88)
+<br> <br> <br> <br> <br>  <br>  <br> 
+
 
 ### Confusion Matrix
 ![Screenshot 2025-03-23 205844](https://github.com/user-attachments/assets/e98c535c-1b1d-4dec-8de8-759124b59883)
 
 ### Classification Report
 ![Screenshot 2025-03-23 204725](https://github.com/user-attachments/assets/4a1d4b5a-4ceb-40ad-af50-9d280c4c6954)
+ <br> <br> <br> <br> <br>  <br>  <br>   <br>  <br>   <br>  <br>   <br>  <br> 
 
 ### New Sample Data Prediction
 ![Screenshot 2025-03-23 204746](https://github.com/user-attachments/assets/d08404dd-51f1-4fd9-8098-90abde851bbc)
